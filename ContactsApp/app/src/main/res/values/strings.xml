@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+
+    <string name="auntie">Auntie</string>
+    <string name="brother">Brother</string>
+    <string name="daughter">Daughter</string>
+    <string name="friend1">Friend 1</string>
+    <string name="friend2">Friend 2</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="granny">Granny</string>
+    <string name="neighbour">Neighbour</string>
+    <string name="sister">Sister</string>
+    <string name="son">Son</string>
+    <string name="uncle">Uncle</string>
+
+    <string name="home">Home</string>
+
+
+
+</resources>
